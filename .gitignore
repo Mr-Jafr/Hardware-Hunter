@@ -3,7 +3,9 @@
 *.suo
 *.VC.db
 *.VC.VC.opendb
-
+*.filters
+*.user
+*.sln
 
 [Dd]ebug/
 [Rr]elease/

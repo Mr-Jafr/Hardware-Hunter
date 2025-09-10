@@ -6,6 +6,7 @@
 *.filters
 *.user
 *.sln
+*.vcxproj
 
 [Dd]ebug/
 [Rr]elease/

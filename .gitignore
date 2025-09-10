@@ -1,0 +1,14 @@
+﻿
+*.exe
+*.obj
+*.o
+
+
+/bin/
+/build/
+/debug/
+/release/
+
+
+*.log
+*.tmp
